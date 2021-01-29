@@ -1,0 +1,4 @@
+<resources>
+    <!--Base application them.-->
+    <Style name="AppTheme"parent="Theme.AppCompat.Light.NoActionBar"></Style>
+</resources>

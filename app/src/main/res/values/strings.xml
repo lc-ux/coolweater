@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name" partent="Theme.AppCompat.Light.NoActionBar">CoolWeather</string>
+</resources>
